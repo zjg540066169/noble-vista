@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Jungang Zou
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Jungang
+last_name: Zou
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,62 +23,52 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Ph.D. student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Department of Biostatistics, Columbia University
+    url: https://www.publichealth.columbia.edu/academics/degrees/doctoral-programs/doctor-philosophy/biostatistics/student-profiles
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'jz3183@cumc.columbia.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/zjg540066169
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/mynetwork/grow/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4yT2BveUW_G_2oAZHHcZDxrrfCIu7gCgMb0nmnOs1_w-EqbmsiU_zpfSmm7Fal5eVbLGEO-_gvm4e91Hw&user=rhESlrQAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
-
+    url: https://orcid.org/0000-0002-5221-1489
+    
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Bayesian Methods
+  - Missing Data
+  - Causal Inference
+  - Survey Analysis
+  - Statistical Computing
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD in Biostatistics
+    institution: Columbia University
+    date_start: 2022-09-01
+    date_end: 2027-05-31 (expected)
+
+  - area: MS in Biostatistics
+    institution: Columbia University
+    date_start: 2019-09-01
+    date_end: 2022-05-31
+    summary: |
+      Gap year: 2020-2021 due to Covid-19
+
+  - area: BE in Computer Software Engineer
+    institution: Xiamen University
     date_start: 2015-09-01
     date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
 
 work:
   - position: Senior AI Research Scientist
@@ -103,40 +93,20 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
+      - name: R & Rcpp
         icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
+      - name: C & C++
+        icon: code-bracket
+      - name: Python & PyTorch
+        icon: code-bracket
+      - name: Machine Learning & Deep Learning
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+      - name: Bayesian Data Analysis
+        icon: chart-bar
 
 languages:
   - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Chinese
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -166,4 +136,6 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a fourth-year Ph.D. student in Biostatistics at Columbia University, advised by Dr. Qixuan Chen and Dr. Liangyuan Hu. Before coming to Columbia, I earned my Bachelor’s degree in Computer Software Engineering.
+
+My research focuses on the development and application of Bayesian methods, particularly in the areas of missing data, causal inference, and survey analysis. I am also interested in advancing computational tools for efficient Bayesian analysis, with the goal of making these methods more practical and scalable for applied research in biostatistics.
