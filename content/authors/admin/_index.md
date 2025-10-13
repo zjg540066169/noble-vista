@@ -71,22 +71,15 @@ education:
     date_end: 2019-06-30
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Quantitative Developer Intern
+    company_name: WorldQuant, Beijing
+    company_url: 'https://www.worldquant.com/'
     company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
+    date_start: 2020-09-15
+    date_end: 2020-12-30
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Programming data processing modules in C++.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
