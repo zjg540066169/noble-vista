@@ -95,7 +95,6 @@ skills:
         icon: chart-bar
       - name: Bayesian Data Analysis
         icon: chart-bar
-
   - name: Languages:
     items:
       - name: English
