@@ -82,7 +82,7 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
+Skills:
   - name: Technical Skills
     items:
       - name: R & Rcpp
