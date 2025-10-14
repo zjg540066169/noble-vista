@@ -6,7 +6,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: "Publications"
+      title: "publications"
       filters:
         folders: ["publications"]        # or "papers" if your folder is lower-case
         kinds: ["page"]
@@ -17,7 +17,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: "Preprints"
+      title: "preprints"
       filters:
         folders: ["preprints"]
         kinds: ["page"]
