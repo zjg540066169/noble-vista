@@ -21,7 +21,7 @@ publishDate: "2024-07-11T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Allergy and Clinical Immunology,*, 154(1), 111-119"
+publication: "*Journal of Allergy and Clinical Immunology*, 154(1), 111-119"
 publication_short: ""
 
 
