@@ -61,13 +61,12 @@ sections:
         - **[BMIselect](https://cran.r-project.org/web/packages/BMIselect/index.html)** — Bayesian MI-LASSO Models for Variable Selection on Multiply-Imputed Data [CRAN](https://cran.r-project.org/web/packages/BMIselect/index.html) • [GitHub](https://github.com/zjg540066169/BMIselect)
         - **[TMOGA](https://pypi.org/project/tmoga/)** — A Multi-Objective Genetic Algorithm for Dynamic Community Detection Problem [PyPI](https://pypi.org/project/tmoga/) • [GitHub](https://github.com/zjg540066169/TMOGA)
   - block: markdown
-    id: talks
+    id: presentations
     content:
-      title: "Talks"
+      title: "Presentations"
       text: |
         - **Bayesian Machine Learning for Decision-Making with Incomplete Information**  
           *ENAR 2023 Spring Meeting* — Nashville, TN, USA — March 2023
-
   - block: markdown
     id: posters
     content:
