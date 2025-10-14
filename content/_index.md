@@ -36,7 +36,7 @@ sections:
       filters:
         folders:
           - publications
-        featured_only: true
+        featured_only: false
         exclude_featured: true
     design:
       view: article-grid
@@ -75,7 +75,7 @@ sections:
         author: ''
         category: ''
         tag: ''
-        exclude_featured: false
+        exclude_featured: true
         exclude_future: false
         exclude_past: false
         publication_type: ''
