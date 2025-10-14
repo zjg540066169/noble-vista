@@ -96,9 +96,11 @@ skills:
       - name: Bayesian Data Analysis
         icon: chart-bar
 
-languages:
-  - name: English
-  - name: Chinese
+   - name: Languages:
+      - name: English
+        icon: chart-bar
+      - name: Chinese
+        icon: chart-bar
 
 # Awards.
 #   Add/remove as many awards below as you like.
