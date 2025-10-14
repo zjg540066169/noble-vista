@@ -100,8 +100,6 @@ languages:
   - name: English
   - name: Chinese
 
-2025 & Travel Grant for the 14th International Conference on BNP (\$300)
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
