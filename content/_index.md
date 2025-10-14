@@ -51,12 +51,12 @@ sections:
     design:
       view: citation
   - block: collection
-    id: software
+    id: softwares
     content:
       title: Software
       filters:
         folders:
-          - software
+          - softwares
     design:
       view: card
   - block: collection
