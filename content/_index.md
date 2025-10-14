@@ -32,17 +32,17 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: collection
     content:
-      title: publications
+      title: 'Publications'
       text: ''
       filters:
         folders:
-          - publications
+          - Publications
         exclude_featured: true
     design:
       view: citation
   - block: collection
     content:
-      title: Preprints
+      title: 'Preprints'
       text: ''
       filters:
         folders:
