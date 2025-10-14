@@ -42,7 +42,7 @@ sections:
       view: citation
   - block: collection
     content:
-      title: preprints
+      title: Preprints
       text: ''
       filters:
         folders:
