@@ -98,9 +98,9 @@ skills:
   - name: Languages:
     items:
       - name: English
-        icon: chart-bar
+        icon: cloud
       - name: Chinese
-        icon: chart-bar
+        icon: cloud
 
 # Awards.
 #   Add/remove as many awards below as you like.
