@@ -42,8 +42,7 @@ profiles:
     url: https://www.linkedin.com/mynetwork/grow/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4yT2BveUW_G_2oAZHHcZDxrrfCIu7gCgMb0nmnOs1_w-EqbmsiU_zpfSmm7Fal5eVbLGEO-_gvm4e91Hw&user=rhESlrQAAAAJ
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-5221-1489
+
     
 interests:
   - Bayesian Methods
