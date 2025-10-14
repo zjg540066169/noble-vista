@@ -20,7 +20,7 @@ publishDate: "2025-01-12T00:00:00Z"
 publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Evaluating sustained reach and effectiveness of collaborative care models: A Cross-sectional study of the New York State Collaborative Care Medicaid Program"
+publication: "Submitted"
 publication_short: ""
 
 
