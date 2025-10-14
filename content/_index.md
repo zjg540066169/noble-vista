@@ -49,6 +49,15 @@ sections:
         exclude_featured: true
     design:
       view: citation
+- block: collection
+    id: softwares
+    content:
+      title: Software
+      filters:
+        folders:
+          - softwares
+    design:
+      view: card
   - block: collection
     id: talks
     content:
