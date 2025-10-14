@@ -56,7 +56,7 @@ education:
   - area: PhD in Biostatistics
     institution: Columbia University
     date_start: 2022-09-01
-    date_end: 2027-05-31 (expected)
+    date_end: 2027-05-31
 
   - area: MS in Biostatistics
     institution: Columbia University
