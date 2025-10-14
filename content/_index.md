@@ -60,4 +60,23 @@ sections:
         - **[SAMTx](https://cran.r-project.org/web/packages/SAMTx/index.html)** — Sensitivity Assessment to Unmeasured Confounding with Multiple Treatments [CRAN](https://cran.r-project.org/web/packages/SAMTx/index.html)
         - **[BMIselect](https://cran.r-project.org/web/packages/BMIselect/index.html)** — Bayesian MI-LASSO Models for Variable Selection on Multiply-Imputed Data [CRAN](https://cran.r-project.org/web/packages/BMIselect/index.html) • [GitHub](https://github.com/zjg540066169/BMIselect)
         - **[TMOGA](https://pypi.org/project/tmoga/)** — A Multi-Objective Genetic Algorithm for Dynamic Community Detection Problem [PyPI](https://pypi.org/project/tmoga/) • [GitHub](https://github.com/zjg540066169/TMOGA)
+  - block: markdown
+    id: talks
+    content:
+      title: "Talks"
+      text: |
+        - **Bayesian Machine Learning for Decision-Making with Incomplete Information**  
+          *ENAR 2023 Spring Meeting* — Nashville, TN, USA — March 2023
+
+  - block: markdown
+    id: posters
+    content:
+      title: "Posters"
+      text: |
+        - **Variable Selection for Multiply-Imputed Data: A Bayesian Framework**  
+          *Columbia Biostatistics Annual Research Symposium* — New York, NY, USA — September 2023  
+        - **Generalizing Treatment Effect from EHR-Recruited Trials Using Bayesian Propensity Prediction**  
+          *Columbia Biostatistics Annual Research Symposium* — New York, NY, USA — September 2025  
+        - **Nonparametric Bayesian Additive Regression Trees for Prediction and Missing Data Imputation in Longitudinal Studies**  
+          *14th International Conference on Bayesian Nonparametrics* — Los Angeles, CA, USA — June 2025  
 ---
