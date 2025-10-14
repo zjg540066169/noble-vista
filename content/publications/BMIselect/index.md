@@ -12,7 +12,7 @@ publishDate: "2025-08-06T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Bayesian MI-LASSO for Variable Selection on Multiply-Imputed Data"
@@ -27,6 +27,8 @@ tags:
 featured: false
     
 links:
+- type: pdf
+  url: https://arxiv.org/pdf/2211.00114v2
 - type: preprint
   provider: arxiv
   id: 2211.00114v2
