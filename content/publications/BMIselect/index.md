@@ -28,10 +28,10 @@ featured: false
     
 links:
 - type: preprint
-provider: arxiv
-id: 2211.00114v2
+  provider: arxiv
+  id: 2211.00114v2
 - type: code
-url: https://cran.r-project.org/web/packages/BMIselect/index.html
+  url: https://cran.r-project.org/web/packages/BMIselect/index.html
 
 
 # Associated Projects (optional).
