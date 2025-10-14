@@ -1,11 +1,10 @@
 ---
-title: "An example preprint / working paper"
+title: "Bayesian MI-LASSO for Variable Selection on Multiply-Imputed Data"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Sijian Wang
+- Qixuan Chen
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -13,49 +12,28 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Bayesian MI-LASSO for Variable Selection on Multiply-Imputed Data"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Multiple imputation is widely used for handling missing data in real-world applications. For variable selection on multiply-imputed datasets, however, if selection is performed on each imputed dataset separately, it can result in different sets of selected variables across datasets. MI-LASSO, one of the most commonly used approaches to this problem, regards the same variable across all separate imputed datasets as a group variable and exploits the group LASSO to yield a consistent variable selection across all the multiply-imputed datasets. In this paper, we extend MI-LASSO to a Bayesian framework and propose four Bayesian MI-LASSO models for variable selection on multiply-imputed data, including three shrinkage prior-based and one Spike-Slab prior-based methods. To further support robust variable selection, we develop a four-step projection predictive variable selection procedure that avoids ad hoc thresholding and facilitates valid post-selection inference. Simulation studies showed that the Bayesian MI-LASSO outperformed MI-LASSO and other alternative approaches, achieving higher specificity and lower mean squared error across a range of settings. We further demonstrated these methods via a case study using a multiply-imputed dataset from the University of Michigan Dioxin Exposure Study. The R package BMIselect is available on CRAN.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Bayesian models, Group LASSO, Multiple imputation, Projection predictive variable selection.
 
-featured: true
+featured: false
 
 hugoblox:
   ids:
-    arxiv: 1512.04133v1
-
+    arxiv: 2211.00114v2
+    
 links:
 - type: preprint
   provider: arxiv
-  id: 1512.04133v1
+  id: 2211.00114v2
 - type: code
-  url: https://github.com/HugoBlox/hugo-blox-builder
-- type: slides
-  url: https://www.slideshare.net/
-- type: dataset
-  url: "#"
-- type: poster
-  url: "#"
-- type: source
-  url: "#"
-- type: video
-  url: https://youtube.com
-- type: custom
-  label: Custom Link
-  url: http://example.org
+  url: https://cran.r-project.org/web/packages/BMIselect/index.html
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
