@@ -31,7 +31,17 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
+      text: ''
+      filters:
+        folders:
+          - papers
+        exclude_featured: true
+    design:
+      view: citation
+  - block: collection
+    content:
+      title: Preprints
       text: ''
       filters:
         folders:
