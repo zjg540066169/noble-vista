@@ -28,7 +28,7 @@ featured: false
     
 links:
 - type: pdf
-url: [http://arxiv.org/pdf/1512.04133v1](https://arxiv.org/pdf/2211.00114v2)
+url: https://arxiv.org/pdf/2211.00114v2
 - type: preprint
 provider: arxiv
 id: 2211.00114v2
