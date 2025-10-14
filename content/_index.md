@@ -32,21 +32,21 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: collection
     content:
-      title: Publications
+      title: publications
       text: ''
       filters:
         folders:
-          - Publications
+          - publications
         exclude_featured: true
     design:
       view: citation
   - block: collection
     content:
-      title: Preprints
+      title: preprints
       text: ''
       filters:
         folders:
-          - Preprints
+          - preprints
         exclude_featured: true
     design:
       view: citation
