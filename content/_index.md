@@ -36,7 +36,7 @@ sections:
       text: ''
       filters:
         folders:
-          - Publications
+          - publications
         exclude_featured: true
     design:
       view: citation
@@ -46,7 +46,7 @@ sections:
       text: ''
       filters:
         folders:
-          - Preprints
+          - preprints
         exclude_featured: true
     design:
       view: citation
