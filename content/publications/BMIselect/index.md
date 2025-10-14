@@ -27,8 +27,6 @@ tags:
 featured: false
     
 links:
-- type: pdf
-url: https://arxiv.org/pdf/2211.00114v2
 - type: preprint
 provider: arxiv
 id: 2211.00114v2
