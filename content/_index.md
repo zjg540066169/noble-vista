@@ -46,7 +46,7 @@ sections:
       text: ''
       filters:
         folders:
-          - preprints
+          - Preprints
         exclude_featured: true
     design:
       view: citation
