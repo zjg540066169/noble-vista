@@ -82,7 +82,7 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-Skills:
+skills:
   - name: Technical Skills
     items:
       - name: R & Rcpp
@@ -95,7 +95,7 @@ Skills:
         icon: chart-bar
       - name: Bayesian Data Analysis
         icon: chart-bar
-  - name: Languages:
+  - name: Languages
     items:
       - name: English
         icon: cloud
