@@ -1,21 +1,22 @@
 ---
-title: "Teaching Assistant"
+title: "Software"
+summary: "R and Python packages developed by Jungang Zou"
 type: landing
 
 sections:
   - block: markdown
-    id: ta
+    id: software
     content:
-      title: "TA at Columbia Biostatistics Department"
+      title: "R & Python Packages"
       text: |
-        **2025 Fall** – Teaching Assistant, *Analysis of Health Surveys (P8123)*  
-        **2025 Spring** – Teaching Assistant, *Data Science II (P8106)*  
-        **2024 Fall** – Teaching Assistant, *Clinical Trial Methodology (P8142)*  
-        **2024 Summer** – Teaching Assistant, *Statistical Analysis with Missing Data Workshop (2024)*  
-        **2024 Spring** – Teaching Assistant, *Topics in Advanced Statistical Computing (P8160)*  
-        **2023 Fall** – Teaching Assistant, *Analysis of Health Surveys (P8123)*  
-        **2023 Summer** – Teaching Assistant, *Statistical Analysis with Missing Data Workshop (2023)*  
-        **2023 Spring** – Teaching Assistant, *Statistical Inference (P8109)*  
-        **2022 Fall** – Teaching Assistant, *Applied Regression II (P8110)*  
-        **2021 Fall** – Teaching Assistant, *Analysis of Health Surveys (P8123)*  
+        - **[SBMTrees](https://cran.r-project.org/web/packages/SBMTrees/index.html)** — Sequential Imputation with Bayesian Trees Mixed-Effects Models for Longitudinal Data  
+          [R (CRAN)](https://cran.r-project.org/web/packages/SBMTrees/index.html) • [GitHub](https://github.com/zjg540066169/SBMTrees)
+        - **[AuxSurvey](https://cran.r-project.org/web/packages/AuxSurvey/index.html)** — Survey Analysis with Auxiliary Discretized Variables  
+          [R (CRAN)](https://cran.r-project.org/web/packages/AuxSurvey/index.html) • [GitHub](https://github.com/zjg540066169/AuxSurvey)
+        - **[SAMTx](https://cran.r-project.org/web/packages/SAMTx/index.html)** — Sensitivity Assessment to Unmeasured Confounding with Multiple Treatments  
+          [R (CRAN)](https://cran.r-project.org/web/packages/SAMTx/index.html)
+        - **[BMIselect](https://cran.r-project.org/web/packages/BMIselect/index.html)** — Bayesian MI-LASSO Models for Variable Selection on Multiply-Imputed Data  
+          [R (CRAN)](https://cran.r-project.org/web/packages/BMIselect/index.html) • [GitHub](https://github.com/zjg540066169/BMIselect)
+        - **[TMOGA](https://pypi.org/project/tmoga/)** — A Multi-Objective Genetic Algorithm for Dynamic Community Detection Problem  
+          [PyPI](https://pypi.org/project/tmoga/) • [GitHub](https://github.com/zjg540066169/TMOGA)
 ---
