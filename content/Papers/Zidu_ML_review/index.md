@@ -1,7 +1,7 @@
 ---
-title: "A flexible sensitivity analysis approach for unmeasured confounding with multiple treatments and a binary outcome with application to SEER-Medicare lung cancer data"
-authors:
+title: "Machine learning-based infection diagnostic and prognostic models in post-acute care settings: a systematic review"
 
+authors:
 - Zidu Xu
 - Danielle Scharp
 - Mollie Hobensack
