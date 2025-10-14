@@ -36,7 +36,7 @@ sections:
       text: ''
       filters:
         folders:
-          - papers
+          - Papers
         exclude_featured: true
     design:
       view: citation
