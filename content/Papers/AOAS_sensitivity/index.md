@@ -25,7 +25,7 @@ abstract: In the absence of a randomized experiment, a key assumption for drawin
 
 
 tags:
-- RCausal inference, ignorability assumption, observational data, Bayesian inference, nested multiple imputation.
+- Causal inference, ignorability assumption, observational data, Bayesian inference, nested multiple imputation.
 
 featured: false
     
