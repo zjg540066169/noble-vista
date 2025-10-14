@@ -25,10 +25,6 @@ tags:
 - Bayesian models, Group LASSO, Multiple imputation, Projection predictive variable selection.
 
 featured: false
-
-hugoblox:
-  ids:
-    arxiv: 2211.00114v2
     
 links:
 - type: preprint
