@@ -45,8 +45,7 @@ sections:
       title: "preprints"
       text: ''
       filters:
-        folders:
-          - preprints
+        folders: ["preprints"]
         exclude_featured: true
     design:
       view: citation
