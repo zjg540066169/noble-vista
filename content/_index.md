@@ -49,6 +49,7 @@ sections:
         folders:
           - publications
         featured_only: true
+        exclude_featured: true
     design:
       view: article-grid
       columns: 2
@@ -59,7 +60,7 @@ sections:
       filters:
         folders:
           - publications
-        exclude_featured: false
+        exclude_featured: true
     design:
       view: citation
   - block: collection
