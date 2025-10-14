@@ -4,7 +4,7 @@ type: landing
 
 sections:
   - block: collection
-    id: papers
+    id: Publications
     content:
       title: "Publications"
       filters:
@@ -15,7 +15,7 @@ sections:
       columns: 2
 
   - block: collection
-    id: publications
+    id: Preprints
     content:
       title: "Preprints"
       filters:
