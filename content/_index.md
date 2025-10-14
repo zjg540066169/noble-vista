@@ -32,7 +32,7 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: collection
     content:
-      title: 'Publications'
+      title: "Publications"
       text: ''
       filters:
         folders:
@@ -42,7 +42,7 @@ sections:
       view: citation
   - block: collection
     content:
-      title: 'Preprints'
+      title: "Preprints"
       text: ''
       filters:
         folders:
