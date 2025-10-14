@@ -50,13 +50,13 @@ sections:
         exclude_featured: true
     design:
       view: citation
-- block: collection
-    id: softwares
+  - block: collection
+    id: software
     content:
       title: Software
       filters:
         folders:
-          - softwares
+          - software
     design:
       view: card
   - block: collection
