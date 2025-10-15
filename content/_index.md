@@ -52,7 +52,7 @@ sections:
   - block: markdown
     id: software
     content:
-      title: "R & Python Packages"
+      title: "R & Python packages"
       text: |
         - **[SBMTrees](https://cran.r-project.org/web/packages/SBMTrees/index.html)** — Sequential Imputation with Bayesian Trees Mixed-Effects Models for Longitudinal Data [CRAN](https://cran.r-project.org/web/packages/SBMTrees/index.html) • [GitHub](https://github.com/zjg540066169/SBMTrees)
         - **[AuxSurvey](https://cran.r-project.org/web/packages/AuxSurvey/index.html)** — Survey Analysis with Auxiliary Discretized Variables [CRAN](https://cran.r-project.org/web/packages/AuxSurvey/index.html) • [GitHub](https://github.com/zjg540066169/AuxSurvey)
@@ -62,19 +62,19 @@ sections:
   - block: markdown
     id: presentations
     content:
-      title: "Presentations"
+      title: "presentations"
       text: |
         - **Bayesian Machine Learning for Decision-Making with Incomplete Information**  
           *ENAR 2023 Spring Meeting* — Nashville, TN, USA — March 2023
   - block: markdown
     id: posters
     content:
-      title: "Posters"
+      title: "posters"
       text: |
-        - **Variable Selection for Multiply-Imputed Data: A Bayesian Framework**  
-          *Columbia Biostatistics Annual Research Symposium* — New York, NY, USA — September 2023  
         - **Generalizing Treatment Effect from EHR-Recruited Trials Using Bayesian Propensity Prediction**  
           *Columbia Biostatistics Annual Research Symposium* — New York, NY, USA — September 2025  
         - **Nonparametric Bayesian Additive Regression Trees for Prediction and Missing Data Imputation in Longitudinal Studies**  
-          *14th International Conference on Bayesian Nonparametrics* — Los Angeles, CA, USA — June 2025  
+          *14th International Conference on Bayesian Nonparametrics* — Los Angeles, CA, USA — June 2025
+        - **Variable Selection for Multiply-Imputed Data: A Bayesian Framework**  
+          *Columbia Biostatistics Annual Research Symposium* — New York, NY, USA — September 2023  
 ---
