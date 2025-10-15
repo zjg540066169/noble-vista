@@ -28,7 +28,7 @@ sections:
   - block: markdown
     id: software
     content:
-      title: "Software"
+      title: "software"
       text: |
         - **[SBMTrees](https://cran.r-project.org/web/packages/SBMTrees/index.html)** — Sequential Imputation with Bayesian Trees Mixed-Effects Models for Longitudinal Data [CRAN](https://cran.r-project.org/web/packages/SBMTrees/index.html) • [GitHub](https://github.com/zjg540066169/SBMTrees)
         - **[AuxSurvey](https://cran.r-project.org/web/packages/AuxSurvey/index.html)** — Survey Analysis with Auxiliary Discretized Variables [CRAN](https://cran.r-project.org/web/packages/AuxSurvey/index.html) • [GitHub](https://github.com/zjg540066169/AuxSurvey)
